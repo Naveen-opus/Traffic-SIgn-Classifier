@@ -1,4 +1,4 @@
-# Traffic-SIgn-Classifier
+# Traffic-Sign-Classifier
 We can read and understand traffic signs using our model, which is a critical task for all autonomous vehicles.
 
 # Dataset
@@ -30,4 +30,8 @@ We compile the model with Adam optimizer which performs well and loss is “cate
 # Accuracy and Loss Graph
 
 ![image](https://user-images.githubusercontent.com/62651885/137872029-3d60e4fe-1850-4203-b5ba-c4c4fe018f02.png)
+
+## With GUI:
+![image](https://user-images.githubusercontent.com/62651885/137879839-0c2126fc-1137-4001-b861-0183b89d93e6.png)
+
 
