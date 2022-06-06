@@ -1,5 +1,5 @@
 # Traffic-Sign-Classifier
-We can read and understand traffic signs using our model, which is a critical task for all autonomous vehicles.
+We can read and understand traffic signs using this model, which is a critical task for all autonomous vehicles.
 
 # Dataset
 For this project, we are using the public dataset available at Kaggle:  
